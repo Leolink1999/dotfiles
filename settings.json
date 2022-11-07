@@ -80,4 +80,10 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "files.autoSave": "afterDelay",
+    "jupyter.widgetScriptSources": [
+      "jsdelivr.com",
+      "unpkg.com"
+    ],
+    "workbench.colorTheme": "Visual Studio Light",
 }
